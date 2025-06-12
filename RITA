@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CAPO'S FIRST WEBSITE</title>
+</head>
+<body>
+    <h1>CAPO'S FIRST WEBSITE</h1>
+    <h2>Nelly is a Bitch</h2>
+    I want pizza and <b>LASAGNE</b> <br>
+    <p>School is annoying but i paid for this shit so <i>lets do it</i></p>
+    <p><a href="https://www.google.com">pizza</a></p>
+    <img src="FOOD.jpg" width="300" height="150" alt="Food Image">
+    
+    <ul>
+        <li>UGALI
+            <ul>
+                <li>ugali foil = 3500</li>
+                <li>ugali nyama choma = 3500</li>
+                <li>ugali samaki = 3000</li>
+            </ul>
+        </li>
+        <li>WALI
+            <ul>
+                <li>wali nyama = 3000</li>
+                <li>wali samaki = 3000</li>
+            </ul>
+        </li>
+        <li>CHIPSI
+            <ul>
+                <li>chipsi kavu = 2000</li>
+                <li>chipsi zege = 3000</li>
+                <li>chipsi kidari kavu = 5000</li>
+                <li>chipsi zege na kidari = 6000</li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
